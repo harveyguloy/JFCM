@@ -53,4 +53,7 @@ Our main goal is to spread the word of God using this app. Nowadays, people tend
 >To PUSH use this method <br>
 > `git add .` <br>
 >`git commit -m "Explain what you changed"` <br>
-> `git push` 
+> `git push`
+
+> To PULL use this method <br>
+> `git pull`
